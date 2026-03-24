@@ -2,3 +2,4 @@ flask
 flask-cors
 gspread
 google-auth
+gunicorn
