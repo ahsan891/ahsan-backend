@@ -14,7 +14,7 @@ CORS(app)
 # CONFIG — update these if anything changes
 # ─────────────────────────────────────────────
 VAPI_API_KEY      = "6e86e577-27c2-4d0a-a4a6-f45270c260a8"
-VAPI_PHONE_ID     = "f68ad6d5-b32c-4051-8f85-67e96d8d2a5a"   # Vapi +1 973 929 9737
+VAPI_PHONE_ID     = "2a541d14-a010-4b05-87eb-0f8439e2d749"   # Twilio +1 507 609 9863
 VAPI_ASSISTANT_ID = "c1e9bac8-7843-4a1b-bee0-e0a2bd1b330e"   # AHSAN
 
 # Google Sheets (optional — leave blank to skip logging)
